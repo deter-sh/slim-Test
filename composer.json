@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "4.*"
+    },
+    "require-dev": {
+        "codeception/codeception": "^5.1",
+        "codeception/module-phpbrowser": "*",
+        "codeception/module-asserts": "*",
+        "docler-labs/codeception-slim-module": "^4.2",
+        "codeception/module-rest": "^3.4"
+    }
+}
